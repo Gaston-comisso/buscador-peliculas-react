@@ -1,8 +1,9 @@
-https://buscador-pelicula-react.netlify.app/
 # Buscador de Películas
 
+[Demo en vivo](https://buscador-pelicula-react.netlify.app/)
+
 ## Descripción
-Buscador de Películas es una aplicación web que permite a los usuarios buscar información sobre películas utilizando la API de [The Movie Database (TMDb)](https://www.themoviedb.org/). Los usuarios pueden explorar detalles, calificaciones y reseñas de sus películas favoritas.
+Buscador de Películas es una aplicación web que permite a los usuarios buscar información sobre películas utilizando la API de The Movie Database (TMDb). Los usuarios pueden explorar detalles, calificaciones y reseñas de sus películas favoritas.
 
 ## Características
 - Búsqueda de películas por título.
@@ -17,3 +18,4 @@ git clone https://github.com/tu-usuario/nombre-del-repo.git
 cd nombre-del-repo
 npm install
 npm start
+
