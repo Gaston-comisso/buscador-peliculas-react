@@ -1,6 +1,6 @@
 # Buscador de Películas
 
-[Demo en vivo](https://buscador-pelicula-react.netlify.app/)
+[Visualiza la página](https://buscador-pelicula-react.netlify.app/)
 
 ## Descripción
 Buscador de Películas es una aplicación web que permite a los usuarios buscar información sobre películas utilizando la API de The Movie Database (TMDb). Los usuarios pueden explorar detalles, calificaciones y reseñas de sus películas favoritas.
